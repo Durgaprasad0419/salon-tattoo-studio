@@ -1,0 +1,1 @@
+const s="/assets/hero-salon-Bu0tS4e7.jpg",a="/assets/real-salon1-CHzbzURC.jpg",e="/assets/real-salon2-C21eOJ_w.jpg",l="/assets/real-salon3-l3JgmTCS.jpg",o="/assets/real-salon4-D478X1cu.jpg";export{o as a,e as b,l as c,s as h,a as r};
